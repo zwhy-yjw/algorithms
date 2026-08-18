@@ -12,6 +12,7 @@ cmake-build-*/
 
 # ===== IDE / 编辑器 =====
 .vscode/
+.vs/
 .idea/
 *.swp
 *.swo
